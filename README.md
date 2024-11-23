@@ -1,5 +1,5 @@
 
-🚀 # SpaceX Falcon 9 First Stage Landing Prediction
+ # 🚀 SpaceX Falcon 9 First Stage Landing Prediction
 
 ## 🌌 Project Overview
 SpaceX has revolutionized the rocket launch industry by reusing the first stage of its Falcon 9 rockets, reducing costs to $62 million per launch compared to competitors charging up to $165 million. In this project, we aim to predict whether the Falcon 9 first stage will successfully land, providing valuable insights into cost estimation and competitive strategies for other organizations.
